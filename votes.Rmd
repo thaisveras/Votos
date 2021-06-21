@@ -2,7 +2,9 @@
 title: "Votes"
 author: "Thais G. Veras Gama"
 date: "21/06/2021"
-output: html_document
+output:
+  html_document: default
+  '': default
 ---
 
 ```{r, include=FALSE}
